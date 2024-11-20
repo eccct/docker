@@ -1,1 +1,3 @@
 redis:7.4.1
+0001coder/chatollama:latest
+
