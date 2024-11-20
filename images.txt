@@ -1,3 +1,4 @@
-redis:7.4.1
+redis
 0001coder/chatollama:latest
+chromadb/chroma
 
